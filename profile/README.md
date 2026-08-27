@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="520" src="./samba-rock.png" alt="Representante da 1TDSPO dançando samba-rock" />
+  <img width="520" src="./ChatGPT Image 27_08_2026, 13_48_43.png" alt="Representante da 1TDSPO dançando samba-rock" />
 </div>
 
 <h1 align="center">Bem-vindos à organização da 1TDSPO 👋</h1>
@@ -199,7 +199,7 @@ Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 ---
 
 <div align="center">
-  <img width="180" src="./samba-rock.png" alt="1TDSPO no ritmo" />
+  <img width="180" src="./ChatGPT Image 27_08_2026, 13_45_50.png" alt="1TDSPO no ritmo" />
   <h3>1TDSPO — código no GitHub e samba-rock no coração.</h3>
   <p>Feito pela turma, para a turma. 💻🫒</p>
 </div>
