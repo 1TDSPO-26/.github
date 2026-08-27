@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=1TDSPO&fontSize=72&fontColor=F5E8C7&fontAlignY=38&animation=fadeIn&desc=Tecnologia,%20organização%20e%20um%20pouco%20de%20samba-rock&descSize=16&descAlignY=62&color=0:1B2615,50:556B2F,100:BAB86C" alt="Banner 1TDSPO" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=1TDSPO&fontSize=80&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Tecnologia,%20organização%20e%20um%20pouco%20de%20samba-rock&descSize=16&descAlignY=62&descColor=FFCCD5&color=0:4A0033,50:800055,100:FF007F" alt="Banner Vibrante 1TDSPO" />
 </div>
 
 <div align="center">
@@ -205,5 +205,5 @@ Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:BAB86C,50:556B2F,100:1B2615" alt="Rodapé 1TDSPO" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4A0033,50:800055,100:FF007F" alt="Rodapé 1TDSPO Vibrante" />
 </div>
