@@ -6,7 +6,11 @@
   <img width="520" src="./ChatGPT Image 27_08_2026, 13_48_43.png" alt="Representante da 1TDSPO dançando samba-rock" />
 </div>
 
-<h1 align="center">Bem-vindos à organização da 1TDSPO 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&width=600&height=50&duration=3000&pause=500&color=FF69B4&background=33333300&center=true&vCenter=true&repeat=false&lines=Bem-vindos+%C3%A0+organiza%C3%A7%C3%A3o+da+1TDSPO" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Nosso espaço oficial para códigos, projetos, exercícios, materiais de apoio e entregas da turma.</strong>
