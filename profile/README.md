@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="520" src="./profile/samba-rock.png" alt="Representante da 1TDSPO dançando samba-rock" />
+  <img width="520" src="./samba-rock.png" alt="Representante da 1TDSPO dançando samba-rock" />
 </div>
 
 <h1 align="center">Bem-vindos à organização da 1TDSPO 👋</h1>
@@ -16,10 +16,10 @@
   <a href="https://github.com/1TDSPO">
     <img src="https://img.shields.io/badge/GitHub-1TDSPO-1B2615?style=for-the-badge&logo=github&logoColor=white" alt="GitHub da turma" />
   </a>
-  <a href="https://discord.gg/SEU-LINK">
+  <a href="https://discord.gg/awnetKUdN">
     <img src="https://img.shields.io/badge/Comunidade-Discord-556B2F?style=for-the-badge&logo=discord&logoColor=white" alt="Discord da turma" />
   </a>
-  <a href="https://www.fiap.com.br/">
+  <a href="https://www.fiap.com.br/?utm_term=&utm_campaign=DSA+-+Brasil+-+Geral&utm_source=adwords&utm_medium=ppc&hsa_acc=8723308225&hsa_cam=20191642922&hsa_grp=174540367916&hsa_ad=808792075134&hsa_src=g&hsa_tgt=dsa-2398441458668&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20191642922&gbraid=0AAAAADqmiBAsFnMHAT_iNf63AZzUvgxCc&gclid=CjwKCAjwwL_UBhAjEiwAEhuT5BxnQOqEXKxu8jZjdjk5xpoABqBJaF4CWIxTUTVP7UNyv0TKDGT1SRoC1NcQAvD_BwE">
     <img src="https://img.shields.io/badge/Instituição-FIAP-BAB86C?style=for-the-badge&logoColor=white" alt="FIAP" />
   </a>
 </p>
@@ -37,17 +37,15 @@ Esta organização foi criada para manter o conteúdo da **1TDSPO** centralizado
 
 | Área | Conteúdo | Link |
 |:---:|---|:---:|
-| 📚 | Materiais e códigos das aulas | [Acessar](https://github.com/1TDSPO?tab=repositories) |
-| 🚀 | Projetos e challenges | [Acessar](https://github.com/1TDSPO/projeto-principal) |
+| 📚 | Materiais e códigos das aulas | [Acessar](https://github.com/orgs/1TDSPO-26/repositories) |
+| 🚀 | Projetos CP Continuado | [Acessar](https://github.com/1TDSPO-26/portal-locais-acessiveis) |
 | 📅 | Calendário de entregas | [Acessar](https://docs.google.com/spreadsheets/d/SEU-LINK) |
-| 📝 | Documentação da turma | [Acessar](https://www.notion.so/SEU-LINK) |
-| 💬 | Canal de comunicação | [Acessar](https://discord.gg/SEU-LINK) |
-| 🆘 | Dúvidas e suporte | [Abrir uma discussão](https://github.com/orgs/1TDSPO/discussions) |
+| 💬 | Canal de comunicação | [Acessar](https://discord.gg/awnetKUdN) |
 
-## Tecnologias que fazem parte da jornada
+## Tecnologias que fazem parte da nossa jornada em FRONT END
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,git,github,vscode,figma,mysql&perline=12" alt="Tecnologias utilizadas pela turma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&perline=12" alt="Tecnologias utilizadas pela turma" />
 </div>
 
 ## Organização dos repositórios
@@ -66,14 +64,6 @@ python-2sem-checkpoint-01
 software-design-challenge-soulmove
 database-2sem-exercicios
 ```
-
-| Prefixo | Uso |
-|---|---|
-| `front` | Front-end, HTML, CSS, JavaScript, TypeScript e React |
-| `python` | Lógica, automação, análise de dados e APIs |
-| `database` | Modelagem, SQL e banco de dados |
-| `software-design` | Arquitetura, UX/UI e projetos integrados |
-| `challenge` | Entregas multidisciplinares do semestre |
 
 ## Como contribuir
 
@@ -107,30 +97,66 @@ git push origin seu-nome/atividade
 
 ## Integrantes
 
-Substitua os perfis provisórios abaixo pelos integrantes reais da turma.
+Conheça os desenvolvedores da **1TDSPO**. Clique na foto para acessar o perfil de cada integrante no GitHub.
 
-<div align="center">
-
-| Integrante | GitHub | LinkedIn | Responsabilidade |
-|---|:---:|:---:|---|
-| Nome Sobrenome | [GitHub](https://github.com/usuario-01) | [LinkedIn](https://linkedin.com/in/usuario-01) | Tech Lead |
-| Nome Sobrenome | [GitHub](https://github.com/usuario-02) | [LinkedIn](https://linkedin.com/in/usuario-02) | Tech Lead |
-| Nome Sobrenome | [GitHub](https://github.com/usuario-03) | [LinkedIn](https://linkedin.com/in/usuario-03) | QA |
-| Nome Sobrenome | [GitHub](https://github.com/usuario-04) | [LinkedIn](https://linkedin.com/in/usuario-04) | QA |
-| Nome Sobrenome | [GitHub](https://github.com/usuario-05) | [LinkedIn](https://linkedin.com/in/usuario-05) | Desenvolvimento |
-| Nome Sobrenome | [GitHub](https://github.com/usuario-06) | [LinkedIn](https://linkedin.com/in/usuario-06) | Desenvolvimento |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/BorbaGustavo"><img src="https://github.com/BorbaGustavo.png?size=120" width="100" alt="Gustavo Borba"/><br><sub><b>Gustavo Borba - Tech Lead</b></sub><br><sub>@BorbaGustavo</sub></a></td>
+    <td align="center"><a href="https://github.com/Enzo-N-Freitas"><img src="https://github.com/Enzo-N-Freitas.png?size=120" width="100" alt="Enzo Negrão"/><br><sub><b>Enzo Negrão - Tech Lead</b></sub><br><sub>@Enzo-N-Freitas</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/AnaMendes-25"><img src="https://github.com/AnaMendes-25.png?size=120" width="100" alt="Ana Mendes"/><br><sub><b>Ana Mendes - QA</b></sub><br><sub>@AnaMendes-25</sub></a></td>
+    <td align="center"><a href="https://github.com/otomendes"><img src="https://github.com/otomendes.png?size=120" width="100" alt="Oto Mendes"/><br><sub><b>Oto Mendes - QA</b></sub><br><sub>@otomendes</sub></a></td>
+    <td align="center"><a href="https://github.com/arthurmartinss"><img src="https://github.com/arthurmartinss.png?size=120" width="100" alt="Arthur Martins"/><br><sub><b>Arthur Martins - QA</b></sub><br><sub>@arthurmartinss</sub></a></td>
+    <td align="center"><a href="https://github.com/abrantes1"><img src="https://github.com/abrantes1.png?size=120" width="100" alt="Lucas Abrantes"/><br><sub><b>Lucas Abrantes - QA</b></sub><br><sub>@abrantes1</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/U-Ale"><img src="https://github.com/U-Ale.png?size=120" width="100" alt="Alexandre Prazeres"/><br><sub><b>Alexandre Prazeres</b></sub><br><sub>@U-Ale</sub></a></td>
+    <td align="center"><a href="https://github.com/AlexandreTeixeiraS"><img src="https://github.com/AlexandreTeixeiraS.png?size=120" width="100" alt="Alexandre Teixeira"/><br><sub><b>Alexandre Teixeira</b></sub><br><sub>@AlexandreTeixeiraS</sub></a></td>
+    <td align="center"><a href="https://github.com/allex1930"><img src="https://github.com/allex1930.png?size=120" width="100" alt="Allex Oliveira"/><br><sub><b>Allex Oliveira</b></sub><br><sub>@allex1930</sub></a></td>
+    <td align="center"><a href="https://github.com/Canevari2"><img src="https://github.com/Canevari2.png?size=120" width="100" alt="Canevari"/><br><sub><b>Canevari</b></sub><br><sub>@Canevari2</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/cesarledres"><img src="https://github.com/cesarledres.png?size=120" width="100" alt="César Ledres"/><br><sub><b>César Ledres</b></sub><br><sub>@cesarledres</sub></a></td>
+    <td align="center"><a href="https://github.com/di-zanon"><img src="https://github.com/di-zanon.png?size=120" width="100" alt="Diego Zanon"/><br><sub><b>Diego Zanon</b></sub><br><sub>@di-zanon</sub></a></td>
+    <td align="center"><a href="https://github.com/enzoleiva2008-blip"><img src="https://github.com/enzoleiva2008-blip.png?size=120" width="100" alt="Enzo Leiva"/><br><sub><b>Enzo Leiva</b></sub><br><sub>@enzoleiva2008-blip</sub></a></td>
+    <td align="center"><a href="https://github.com/Felipeads12"><img src="https://github.com/Felipeads12.png?size=120" width="100" alt="Felipe Passos"/><br><sub><b>Felipe Passos</b></sub><br><sub>@Felipeads12</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Gracetti"><img src="https://github.com/Gracetti.png?size=120" width="100" alt="Igor Gracetti"/><br><sub><b>Igor Gracetti</b></sub><br><sub>@Gracetti</sub></a></td>
+    <td align="center"><a href="https://github.com/juliaraalmeida77-ux"><img src="https://github.com/juliaraalmeida77-ux.png?size=120" width="100" alt="Júlia Rodrigues"/><br><sub><b>Júlia Rodrigues</b></sub><br><sub>@juliaraalmeida77-ux</sub></a></td>
+    <td align="center"><a href="https://github.com/Kaua056"><img src="https://github.com/Kaua056.png?size=120" width="100" alt="Kauã"/><br><sub><b>Kauã</b></sub><br><sub>@Kaua056</sub></a></td>
+    <td align="center"><a href="https://github.com/KauanMattos"><img src="https://github.com/KauanMattos.png?size=120" width="100" alt="Kauan Mattos"/><br><sub><b>Kauan Mattos</b></sub><br><sub>@KauanMattos</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/KauaznX"><img src="https://github.com/KauaznX.png?size=120" width="100" alt="KauaznX"/><br><sub><b>KauaznX</b></sub><br><sub>@KauaznX</sub></a></td>
+    <td align="center"><a href="https://github.com/LucasAlmeidaOliveira"><img src="https://github.com/LucasAlmeidaOliveira.png?size=120" width="100" alt="Lucas Almeida"/><br><sub><b>Lucas Almeida</b></sub><br><sub>@LucasAlmeidaOliveira</sub></a></td>
+    <td align="center"><a href="https://github.com/mariabatistaescandor-gif"><img src="https://github.com/mariabatistaescandor-gif.png?size=120" width="100" alt="Maria Eduarda Escandor"/><br><sub><b>Maria Eduarda Escandor</b></sub><br><sub>@mariabatistaescandor-gif</sub></a></td>
+    <td align="center"><a href="https://github.com/mariaeduardaalima"><img src="https://github.com/mariaeduardaalima.png?size=120" width="100" alt="Maria Eduarda Lima"/><br><sub><b>Maria Eduarda Lima</b></sub><br><sub>@mariaeduardaalima</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mateus-Isaque"><img src="https://github.com/Mateus-Isaque.png?size=120" width="100" alt="Mateus Isaque"/><br><sub><b>Mateus Isaque</b></sub><br><sub>@Mateus-Isaque</sub></a></td>
+    <td align="center"><a href="https://github.com/matheusleite21"><img src="https://github.com/matheusleite21.png?size=120" width="100" alt="Matheus Leite"/><br><sub><b>Matheus Leite</b></sub><br><sub>@matheusleite21</sub></a></td>
+    <td align="center"><a href="https://github.com/Nezio22"><img src="https://github.com/Nezio22.png?size=120" width="100" alt="Matheus Nézio"/><br><sub><b>Matheus Nézio</b></sub><br><sub>@Nezio22</sub></a></td>
+    <td align="center"><a href="https://github.com/matheusruiz-07"><img src="https://github.com/matheusruiz-07.png?size=120" width="100" alt="Matheus Ruiz"/><br><sub><b>Matheus Ruiz</b></sub><br><sub>@matheusruiz-07</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MatheuSegura"><img src="https://github.com/MatheuSegura.png?size=120" width="100" alt="Matheus Segura"/><br><sub><b>Matheus Segura</b></sub><br><sub>@MatheuSegura</sub></a></td>
+    <td align="center"><a href="https://github.com/melissafiuza"><img src="https://github.com/melissafiuza.png?size=120" width="100" alt="Melissa Fiuza"/><br><sub><b>Melissa Fiuza</b></sub><br><sub>@melissafiuza</sub></a></td>
+    <td align="center"><a href="https://github.com/MuriloSCruzz"><img src="https://github.com/MuriloSCruzz.png?size=120" width="100" alt="Murilo Cruz"/><br><sub><b>Murilo Cruz</b></sub><br><sub>@MuriloSCruzz</sub></a></td>
+    <td align="center"><a href="https://github.com/ropark-tech"><img src="https://github.com/ropark-tech.png?size=120" width="100" alt="Roberto Park"/><br><sub><b>Roberto Park</b></sub><br><sub>@ropark-tech</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Rochagx"><img src="https://github.com/Rochagx.png?size=120" width="100" alt="Rocha"/><br><sub><b>Rocha</b></sub><br><sub>@Rochagx</sub></a></td>
+    <td align="center"><a href="https://github.com/theo4321"><img src="https://github.com/theo4321.png?size=120" width="100" alt="Theo"/><br><sub><b>Theo</b></sub><br><sub>@theo4321</sub></a></td>
+  </tr>
+</table>
 
 ## Disciplinas e responsáveis
 
-| Disciplina | Professor(a) | Materiais |
+| Matéria do ++ | O ++ | GitHub do ++ |
 |---|---|:---:|
-| Front-end Design | Nome do professor | [Acessar](https://github.com/1TDSPO/front-end) |
-| Computational Thinking with Python | Nome do professor | [Acessar](https://github.com/1TDSPO/python) |
-| Database Application & Data Science | Nome do professor | [Acessar](https://github.com/1TDSPO/database) |
-| Software Design & Total Experience | Nome do professor | [Acessar](https://github.com/1TDSPO/software-design) |
-| Domain Driven Design | Nome do professor | [Acessar](https://github.com/1TDSPO/ddd) |
+| Front-end Design | Alexandre Carlos | [Acessar](https://github.com/orgs/1TDSPO-26/people/alecarlosjesus) |
 
 ## Fluxo das atividades
 
@@ -146,7 +172,7 @@ flowchart LR
 ## Intervalo cultural obrigatório
 
 <div align="center">
-  <img width="300" src="./profile/samba-rock.png" alt="Mascote não oficial da organização no samba-rock" />
+  <img width="300" src="./samba-rock.png" alt="Mascote não oficial da organização no samba-rock" />
   <br />
   <sub><em>Quando o código roda de primeira e ninguém sabe explicar o motivo.</em></sub>
 </div>
@@ -155,16 +181,14 @@ flowchart LR
 
 - [Portal do Aluno FIAP](https://on.fiap.com.br/)
 - [Documentação do GitHub](https://docs.github.com/pt)
-- [Guia de Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 - [Documentação do React](https://react.dev/)
 - [Documentação do TypeScript](https://www.typescriptlang.org/docs/)
-- [Documentação do Python](https://docs.python.org/pt-br/3/)
 
 ## Precisa de ajuda?
 
-Use a aba **Discussions** para dúvidas gerais e a aba **Issues** para erros, tarefas ou melhorias específicas. Ao pedir ajuda, informe:
+Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 
 - o que você estava tentando fazer;
 - o resultado esperado;
@@ -175,7 +199,7 @@ Use a aba **Discussions** para dúvidas gerais e a aba **Issues** para erros, ta
 ---
 
 <div align="center">
-  <img width="180" src="./profile/samba-rock.png" alt="1TDSPO no ritmo" />
+  <img width="180" src="./samba-rock.png" alt="1TDSPO no ritmo" />
   <h3>1TDSPO — código no GitHub e samba-rock no coração.</h3>
   <p>Feito pela turma, para a turma. 💻🫒</p>
 </div>
