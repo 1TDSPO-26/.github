@@ -2,10 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=1TDSPO&fontSize=80&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Tecnologia,%20organização%20e%20um%20pouco%20de%20samba-rock&descSize=16&descAlignY=62&descColor=FFCCD5&color=0:4A0033,50:800055,100:FF007F" alt="Banner Vibrante 1TDSPO" />
 </div>
 
-<div align="center">
-  <img width="520" src="./ChatGPT Image 27_08_2026, 13_48_43.png" alt="Representante da 1TDSPO dançando samba-rock" />
-</div>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&width=600&height=50&duration=3000&pause=500&color=FF69B4&background=33333300&center=true&vCenter=true&repeat=false&lines=Bem-vindos+%C3%A0+organiza%C3%A7%C3%A3o+da+1TDSPO" alt="Typing SVG" />
@@ -173,14 +169,6 @@ flowchart LR
     E --> F[Entrega final]
 ```
 
-## Intervalo cultural obrigatório
-
-<div align="center">
-  <img width="300" src="./samba-rock.png" alt="Mascote não oficial da organização no samba-rock" />
-  <br />
-  <sub><em>Quando o código roda de primeira e ninguém sabe explicar o motivo.</em></sub>
-</div>
-
 ## Links úteis
 
 - [Portal do Aluno FIAP](https://on.fiap.com.br/)
@@ -203,7 +191,6 @@ Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 ---
 
 <div align="center">
-  <img width="180" src="./ChatGPT Image 27_08_2026, 13_45_50.png" alt="1TDSPO no ritmo" />
   <h3>1TDSPO — código no GitHub e samba-rock no coração.</h3>
   <p>Feito pela turma, para a turma. 💻🫒</p>
 </div>
