@@ -2,15 +2,50 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=1TDSPO&fontSize=80&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Tecnologia,%20organização%20e%20um%20pouco%20de%20samba-rock&descSize=16&descAlignY=62&descColor=FFCCD5&color=0:4A0033,50:800055,100:FF007F" alt="Banner Vibrante 1TDSPO" />
 </div>
 
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&width=600&height=50&duration=3000&pause=500&color=FF69B4&background=33333300&center=true&vCenter=true&repeat=false&lines=Bem-vindos+%C3%A0+organiza%C3%A7%C3%A3o+da+1TDSPO" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <strong>Nosso espaço oficial para códigos, projetos, exercícios, materiais de apoio e entregas da turma.</strong>
+<div align="center">
+
+  <img src="aqui-não-tem-final-feliz.png"
+       width="450"
+       alt="Guardião dos Pull Requests" />
+
+  <h3>👻 Guardião dos Pull Requests</h3>
+
+  <p>
+    <strong>Alexandre Carlos — Mestre do Front-End</strong>
+  </p>
+
+  <p>
+    ☠️ Revisa commits <br>
+    ☠️ Caça bugs escondidos <br>
+    ☠️  Push direto na `main` pode invocar esta entidade.
+  </p>
+
+  <blockquote>
+    <strong>
+📚 Estude bastante, ou ele irá atrás de você!
+    </strong>
+  </blockquote>
+
+</div>
+
+
+<div>
+<p align ="center">
+
+  <strong>
+  CUIDADO!! Nosso espaço oficial para códigos, projetos, exercícios, materiais de apoio e entregas da turma.
+  </strong>
+
 </p>
+</div>
 
 <p align="center">
   <a href="https://github.com/1TDSPO">
