@@ -1,91 +1,50 @@
+<!-- Mantenha README.md e os arquivos visuais na mesma pasta. -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=1TDSPO&fontSize=80&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Tecnologia,%20organização%20e%20um%20pouco%20de%20samba-rock&descSize=16&descAlignY=62&descColor=FFCCD5&color=0:4A0033,50:800055,100:FF007F" alt="Banner Vibrante 1TDSPO" />
+  <img src="./guardiao.svg" width="100%" alt="Guardião dos Pull Requests — Alexandre Carlos, Mestre do Front-End" />
 </div>
 
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&width=600&height=50&duration=3000&pause=500&color=FF69B4&background=33333300&center=true&vCenter=true&repeat=false&lines=Bem-vindos+%C3%A0+organiza%C3%A7%C3%A3o+da+1TDSPO" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
-
-  <img src="aqui-não-tem-final-feliz.png"
+<img src="aqui-não-tem-final-feliz.png"
        width="450"
        alt="Guardião dos Pull Requests" />
 
-  <h3>👻 Guardião dos Pull Requests</h3>
+<p align="center"><a href="https://github.com/orgs/1TDSPO-26/repositories">🕸️ Repositórios</a> · <a href="https://discord.gg/awnetKUdN">👻 Discord</a> · <a href="https://on.fiap.com.br/">🌙 Portal FIAP</a></p>
 
-  <p>
-    <strong>Alexandre Carlos — Mestre do Front-End</strong>
-  </p>
+> **Bem-vindo à 1TDSPO.** Entre, puxe uma cadeira e confira sua branch. O verdadeiro terror é descobrir que você trabalhou na errada.
 
-  <p>
-    ☠️ Revisa commits <br>
-    ☠️ Caça bugs escondidos <br>
-    ☠️  Push direto na `main` pode invocar esta entidade.
-  </p>
+> Push direto na `main` pode invocar esta entidade. Estude bastante: o próximo code review pode ser o seu.
 
-  <blockquote>
-    <strong>
-📚 Estude bastante, ou ele irá atrás de você!
-    </strong>
-  </blockquote>
-
-</div>
-
-
-<div>
-<p align ="center">
-
-  <strong>
-  CUIDADO!! Nosso espaço oficial para códigos, projetos, exercícios, materiais de apoio e entregas da turma.
-  </strong>
-
-</p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/1TDSPO">
-    <img src="https://img.shields.io/badge/GitHub-1TDSPO-1B2615?style=for-the-badge&logo=github&logoColor=white" alt="GitHub da turma" />
-  </a>
-  <a href="https://discord.gg/awnetKUdN">
-    <img src="https://img.shields.io/badge/Comunidade-Discord-556B2F?style=for-the-badge&logo=discord&logoColor=white" alt="Discord da turma" />
-  </a>
-  <a href="https://www.fiap.com.br/?utm_term=&utm_campaign=DSA+-+Brasil+-+Geral&utm_source=adwords&utm_medium=ppc&hsa_acc=8723308225&hsa_cam=20191642922&hsa_grp=174540367916&hsa_ad=808792075134&hsa_src=g&hsa_tgt=dsa-2398441458668&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20191642922&gbraid=0AAAAADqmiBAsFnMHAT_iNf63AZzUvgxCc&gclid=CjwKCAjwwL_UBhAjEiwAEhuT5BxnQOqEXKxu8jZjdjk5xpoABqBJaF4CWIxTUTVP7UNyv0TKDGT1SRoC1NcQAvD_BwE">
-    <img src="https://img.shields.io/badge/Instituição-FIAP-BAB86C?style=for-the-badge&logoColor=white" alt="FIAP" />
-  </a>
-</p>
-
----
-
-## Sobre este espaço
+<img src="./sobre.svg" width="100%" alt="O arquivo assombrado" />
 
 Esta organização foi criada para manter o conteúdo da **1TDSPO** centralizado, acessível e fácil de acompanhar. Aqui ficam os códigos desenvolvidos em aula, projetos da turma, materiais complementares, exercícios e documentos importantes ao longo do semestre.
 
 > [!IMPORTANT]
 > Antes de começar uma atividade, confira o README do repositório correspondente. Ele contém instruções, requisitos, prazos e orientações específicas.
 
-## Acesso rápido
+<br />
 
-| Área | Conteúdo | Link |
-|:---:|---|:---:|
-| 📚 | Materiais e códigos das aulas | [Acessar](https://github.com/orgs/1TDSPO-26/repositories) |
-| 🚀 | Projetos CP Continuado | [Acessar](https://github.com/1TDSPO-26/portal-locais-acessiveis) |
-| 📅 | Calendário de entregas | [Acessar](https://docs.google.com/spreadsheets/d/SEU-LINK) |
-| 💬 | Canal de comunicação | [Acessar](https://discord.gg/awnetKUdN) |
+<img src="./acesso.svg" width="100%" alt="Portas para o outro lado" />
 
-## Tecnologias que fazem parte da nossa jornada em FRONT END
+| Área | Conteúdo                                              |                               Link                               |
+| :--: | ----------------------------------------------------- | :--------------------------------------------------------------: |
+|  📚  | Arquivo de evidências — materiais e códigos das aulas |    [Acessar](https://github.com/orgs/1TDSPO-26/repositories)     |
+|  🚀  | Experimentos — projetos CP Continuado                 | [Acessar](https://github.com/1TDSPO-26/portal-locais-acessiveis)                         |
+|  💬  | Rádio dos sobreviventes — comunicação                 |             [Acessar](https://discord.gg/awnetKUdN)              |
+
+<br />
+
+<img src="./tecnologias.svg" width="100%" alt="Kit de sobrevivência" />
+
+As ferramentas da nossa jornada em **Front-End**. Equipe-se antes de entrar.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&perline=12" alt="Tecnologias utilizadas pela turma" />
 </div>
 
-## Organização dos repositórios
+<br />
 
-Para facilitar buscas e manter um padrão, os repositórios devem seguir esta estrutura:
+<img src="./repositorios.svg" width="100%" alt="Catálogo das assombrações" />
+
+Até uma casa assombrada precisa de organização. Para facilitar buscas e manter um padrão, os repositórios devem seguir esta estrutura:
 
 ```text
 disciplina-semestre-tipo-nome
@@ -100,7 +59,9 @@ software-design-challenge-soulmove
 database-2sem-exercicios
 ```
 
-## Como contribuir
+<br />
+
+<img src="./contribuir.svg" width="100%" alt="Ritual de contribuição" />
 
 1. Acesse o repositório da atividade.
 2. Leia todas as instruções do README.
@@ -110,7 +71,7 @@ database-2sem-exercicios
 6. Aguarde a revisão antes de realizar o merge.
 
 ```bash
-git clone https://github.com/1TDSPO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/1TDSPO-26/NOME-DO-REPOSITORIO.git
 git checkout -b seu-nome/atividade
 git add .
 git commit -m "feat: descreve brevemente a alteração"
@@ -120,7 +81,9 @@ git push origin seu-nome/atividade
 > [!TIP]
 > Evite mensagens como `alteração`, `coisas` ou `agora vai`. Um bom commit explica o que mudou sem exigir uma investigação criminal.
 
-## Combinados da turma
+<br />
+
+<img src="./combinados.svg" width="100%" alt="Pacto dos sobreviventes" />
 
 - Não envie senhas, tokens, credenciais ou dados pessoais aos repositórios.
 - Não altere o trabalho de outra pessoa sem conversar antes.
@@ -130,7 +93,9 @@ git push origin seu-nome/atividade
 - Em trabalhos em grupo, todos devem participar e compreender a entrega.
 - Código copiado sem entendimento não conta como aprendizado — nem como milagre.
 
-## Integrantes
+<br />
+
+<img src="./integrantes.svg" width="100%" alt="Quem ainda está entre nós" />
 
 Conheça os desenvolvedores da **1TDSPO**. Clique na foto para acessar o perfil de cada integrante no GitHub.
 
@@ -187,24 +152,32 @@ Conheça os desenvolvedores da **1TDSPO**. Clique na foto para acessar o perfil 
   </tr>
 </table>
 
-## Disciplinas e responsáveis
+<br />
 
-| Matéria do ++ | O ++ | GitHub do ++ |
-|---|---|:---:|
-| Front-end Design | Alexandre Carlos | [Acessar](https://github.com/orgs/1TDSPO-26/people/alecarlosjesus) |
+<img src="./disciplinas.svg" width="100%" alt="Entidades responsáveis" />
 
-## Fluxo das atividades
+| Disciplina       | Professor        |                    GitHub                    |
+| ---------------- | ---------------- | :------------------------------------------: |
+| Front-end Design | Alexandre Carlos | [Acessar](https://github.com/alecarlosjesus) |
+
+<br />
+
+<img src="./fluxo.svg" width="100%" alt="O caminho até a entrega" />
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Conteúdo da aula] --> B[Repositório atualizado]
     B --> C[Estudo e desenvolvimento]
     C --> D[Pull Request]
     D --> E[Revisão]
     E --> F[Entrega final]
+    classDef spectral fill:#191022,stroke:#b395ee,color:#eee8fa
+    class A,B,C,D,E,F spectral
 ```
 
-## Links úteis
+<br />
+
+<img src="./links.svg" width="100%" alt="Grimório de consulta" />
 
 - [Portal do Aluno FIAP](https://on.fiap.com.br/)
 - [Documentação do GitHub](https://docs.github.com/pt)
@@ -213,7 +186,9 @@ flowchart LR
 - [Documentação do React](https://react.dev/)
 - [Documentação do TypeScript](https://www.typescriptlang.org/docs/)
 
-## Precisa de ajuda?
+<br />
+
+<img src="./ajuda.svg" width="100%" alt="Pedido de resgate" />
 
 Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 
@@ -223,13 +198,4 @@ Mande mensagem para algum dos Tech Leads. Ao pedir ajuda, informe:
 - mensagem de erro completa;
 - print ou trecho de código relevante.
 
----
-
-<div align="center">
-  <h3>1TDSPO — código no GitHub e samba-rock no coração.</h3>
-  <p>Feito pela turma, para a turma. 💻🫒</p>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4A0033,50:800055,100:FF007F" alt="Rodapé 1TDSPO Vibrante" />
-</div>
+<img src="./saida.svg" width="100%" alt="Feito pela 1TDSPO. A assombração continua." />
