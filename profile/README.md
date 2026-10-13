@@ -3,7 +3,7 @@
   <img src="./guardiao.svg" width="100%" alt="Guardião dos Pull Requests — Alexandre Carlos, Mestre do Front-End" />
 </div>
 
-<img src="aqui-não-tem-final-feliz.png"
+<img src="profile/versão-caçabugs.jpg"
        width="450"
        alt="Guardião dos Pull Requests" />
 
